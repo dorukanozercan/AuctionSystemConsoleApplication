@@ -1,4 +1,3 @@
-//// CODE WRITTEN BY DORUKAN OZERCAN ALL RIGHTS RESERVED
 
 import java.util.*;
 
@@ -48,7 +47,7 @@ public class MaxHeap {
         heap[i] = elem;
         size++;
     }
- // CODE WRITTEN BY DORUKAN OZERCAN ALL RIGHTS RESERVED
+ 
     public int findMax() {
         if (size == 0) {
             return -1;
@@ -80,5 +79,3 @@ public class MaxHeap {
     }
 
 }
-
-//// CODE WRITTEN BY DORUKAN OZERCAN ALL RIGHTS RESERVED
