@@ -1,5 +1,3 @@
-// CODE WRITTEN BY DORUKAN OZERCAN ALL RIGHTS RESERVED
-
 import java.util.*;
 
 public class AuctionSystem {
@@ -23,7 +21,7 @@ public class AuctionSystem {
 		String choice;
 		int[] arrayBid = new int[list.size()];
 		QueueD que = new QueueD();
-		// CODE WRITTEN BY DORUKAN OZERCAN ALL RIGHTS RESERVED
+		
 		do {
 			System.out.println("CONTROL PANEL: [additem, address, bid, end, nextitem)] (Type exit to quit.)");
 			choice = input.nextLine(); //takes answer to what to do
@@ -73,6 +71,4 @@ public class AuctionSystem {
 		} while (choice != "exit");
 	}
 }
-
-//CODE WRITTEN BY DORUKAN OZERCAN ALL RIGHTS RESERVED
 
