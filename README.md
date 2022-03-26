@@ -1,4 +1,4 @@
-# Auction System Console Application by Dorukan Özercan
+# Auction System Console Application
 
 Data Structures and Algorithms Project 
 
